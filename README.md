@@ -1,4 +1,5 @@
 # linux_basic
+follow link http://linux-training.be
 Linux Fundamentals.pdf teaches you the very fundamentals of Linux (or Unix!). This book is for beginners, novices, anyone who wants to become a Linux developer or Linux system administrator. It contains basic knowledge, but advanced users will also benefit from this book.
 
 System Administration.pdf teaches you Linux system administration (not Unix). Anything that is related to Linux system management, is introduced in this book.
